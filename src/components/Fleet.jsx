@@ -58,16 +58,16 @@ const vehicles = [
     badgeColor: 'bg-red-100 text-red-700',
     useCases: ['State transport', 'Industrial goods', 'Commercial freight'],
   },
-  // {
-  //   id: 6, category: 'Medium',
-  //   name: 'BharatBenz 1015',
-  //   subtitle: 'Medium Cargo',
-  //   capacity: '5 Ton',
-  //   image: '/images/fleet/al-dost-side.jpg',
-  //   badge: 'Medium',
-  //   badgeColor: 'bg-blue-100 text-blue-700',
-  //   useCases: ['Heavy retail', 'Construction materials', 'Bulk delivery'],
-  // },
+  {
+    id: 6, category: 'Large Trucks',
+    name: 'Eicher 19 feet',
+    subtitle: 'Large Truck',
+    capacity: '6 Ton',
+    image: '/images/fleet/eicher-medium.jpg',
+    badge: 'Large',
+    badgeColor: 'bg-red-100 text-red-700',
+    useCases: ['Heavy retail', 'Construction materials', 'Bulk delivery'],
+  },
 
   // HEAVY
   {
@@ -102,16 +102,16 @@ const vehicles = [
   },
 
   // LARGE TRUCKS
-  {
-    id: 10, category: 'Large Trucks',
-    name: 'Ashok Leyland 2820',
-    subtitle: 'Large Truck',
-    capacity: '20 Ton',
-    image: '/images/fleet/al-2820.jpg',
-    badge: 'Large',
-    badgeColor: 'bg-red-100 text-red-700',
-    useCases: ['Heavy industrial', 'Long haul freight', 'Agricultural bulk'],
-  },
+  // {
+  //   id: 10, category: 'Large Trucks',
+  //   name: 'Ashok Leyland 2820',
+  //   subtitle: 'Large Truck',
+  //   capacity: '20 Ton',
+  //   image: '/images/fleet/al-2820.jpg',
+  //   badge: 'Large',
+  //   badgeColor: 'bg-red-100 text-red-700',
+  //   useCases: ['Heavy industrial', 'Long haul freight', 'Agricultural bulk'],
+  // },
   {
     id: 11, category: 'Heavy',
     name: '12 wheel lorry',
@@ -138,7 +138,7 @@ const vehicles = [
     id: 13, category: 'Large Trucks',
     name: '17 Feet Trailer',
     subtitle: 'Large Cargo',
-    capacity: 'Up to 25 Ton',
+    capacity: '10 Ton',
     image: '/images/fleet/al-medium.jpg',
     badge: 'Large',
     badgeColor: 'bg-red-100 text-red-700',

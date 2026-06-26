@@ -51,7 +51,7 @@ const contactInfo = [
     icon: FiMapPin,
     label: 'Office',
     value: 'Kalapatti, Coimbatore',
-    sub: '1/8, Ayyappa Nagar, Kalapatti Main Road, Coimbatore – 641048',
+    sub: '1/1, Ayyappa Nagar, Kalapatti Main Road, Coimbatore – 641048',
     href: 'https://maps.google.com/?q=Kalapatti,Coimbatore',
     color: 'bg-secondary',
   },

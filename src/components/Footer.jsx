@@ -59,11 +59,11 @@ export default function Footer() {
 
           {/* Brand */}
           <div className="lg:col-span-1">
-            <img
+            {/* <img
               src="/images/logo.jpeg"
               alt="Pick & Drop Logistics"
               className="h-12 w-auto object-contain mb-4 brightness-0 invert"
-            />
+            /> */}
             <h3 className="font-bold text-white text-lg leading-tight mb-1">Pick &amp; Drop Logistics</h3>
             <p className="text-accent text-sm font-semibold mb-4 italic">
               Fast. Safe. Reliable. Every Mile.
